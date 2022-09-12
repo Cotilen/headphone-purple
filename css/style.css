@@ -1,9 +1,3 @@
-*{
-
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-}
 
 body{
     height: 100vh;
@@ -14,6 +8,7 @@ body{
      "main "
      "footer";
      grid-template-rows: 100px 1fr 100px;
+     font-family: 'Montserrat', sans-serif;
 }
 
 header{
