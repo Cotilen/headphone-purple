@@ -18,6 +18,5 @@ O objetivo deste projeto é colocar em prática os conhecimentos adquiridos no c
 ---
 ## Equipe
 
-- [Leonid](https://github.com/fernandoleonid)
 - [Cleiton](https://github.com/Cleiton-beep)
 
